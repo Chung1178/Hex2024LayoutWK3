@@ -571,23 +571,23 @@ a {
         font-size: 16px;
     }
 }
-.footer-contact-phone img {
-    width: 36px;
+.footer-contact-phone span {
+    font-size: 36px;
     margin-right: 22px;
 }
 @media (max-width:767px) {
-    .footer-contact-phone img {
-        width: 18px;
+    .footer-contact-phone span {
+        font-size: 18px;
         margin-right: 11px;
     }
 }
-.footer-contact-mail img {
-    width: 40px;
+.footer-contact-mail span {
+    font-size:40px;
     margin-right: 20px;
 }
 @media (max-width:767px) {
-    .footer-contact-mail img {
-        width: 20px;
+    .footer-contact-mail span {
+        font-size: 20px;
         margin-right: 10px;
     }
 }
